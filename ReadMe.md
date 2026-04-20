@@ -1,4 +1,4 @@
-TECH USED :: MONGODB (DATABASE), EXPRESS
+TECH USED :: MONGODB (DATABASE), EXPRESS, RATE-LIMITATION-TECHNIQUE
 
 first npm install and download node_modules
 second create .env file and add these 2 env variables
